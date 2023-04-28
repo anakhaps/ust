@@ -1,0 +1,57 @@
+import java.util.Date;
+
+public class requirenment_java
+{
+	
+private String name;
+private String website;
+private String mobile;
+private String founder;
+private String location;
+private Integer numberOfDept;
+private Date startingDate;
+
+public String getName() {
+	return name;
+}
+public void setName(String name) {
+	this.name = name;
+}
+public String getWebsite() {
+	return website;
+}
+public void setWebsite(String website) {
+	this.website = website;
+}
+public String getMobile() {
+	return mobile;
+}
+public void setMobile(String mobile) {
+	this.mobile = mobile;
+}
+public String getFounder() {
+	return founder;
+}
+public void setFounder(String founder) {
+	this.founder = founder;
+}
+public String getLocation() {
+	return location;
+}
+public void setLocation(String location) {
+	this.location = location;
+}
+public Integer getNumberOfDept() {
+	return numberOfDept;
+}
+public void setNumberOfDept(Integer numberOfDept) {
+	this.numberOfDept = numberOfDept;
+}
+public Date getStartingDate() {
+	return startingDate;
+}
+public void setStartingDate(Date startingDate) {
+	this.startingDate = startingDate;
+}
+}
+

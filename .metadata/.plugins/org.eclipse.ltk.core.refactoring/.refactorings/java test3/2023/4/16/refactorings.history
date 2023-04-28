@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;fullPrime.java&apos; to &apos;FullPrime.java&apos;&#x0D;&#x0A;- Original project: &apos;java test3&apos;&#x0D;&#x0A;- Original element: &apos;fullPrime.java&apos;&#x0D;&#x0A;- Renamed element: &apos;FullPrime.java&apos;" description="Rename compilation unit &apos;fullPrime.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{fullPrime.java" name="FullPrime.java" references="false" stamp="1681983572646" version="1.0"/>
+</session>

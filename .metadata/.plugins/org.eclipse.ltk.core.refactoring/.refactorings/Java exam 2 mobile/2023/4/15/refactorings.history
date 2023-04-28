@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;MobileBrand.java&apos; to &apos;Mobile.java&apos;&#x0D;&#x0A;- Original project: &apos;Java exam 2 mobile&apos;&#x0D;&#x0A;- Original element: &apos;MobileBrand.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Mobile.java&apos;" description="Rename compilation unit &apos;MobileBrand.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{MobileBrand.java" name="Mobile.java" references="false" stamp="1681470995141" version="1.0"/>
+</session>

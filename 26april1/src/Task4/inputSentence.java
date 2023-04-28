@@ -1,0 +1,24 @@
+package Task4;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
+public class inputSentence {
+
+	public static void main(String[] args) 
+	{
+		List<String> li=Arrays.asList("This","sentence","is","types","by","me","You","are","going","to","work","on","this");
+  li=li.stream().map(String::toUpperCase).collect(Collectors.toList());
+ Map<Character, Long> charFrequency = li.stream().flatMapToInt(String::chars) //IntStream
+ .mapToObj(c ->(char) c).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+System.out.println(charFrequency);
+
+		
+		
+
+	}
+
+}
